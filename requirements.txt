@@ -1,0 +1,4 @@
+flet>=0.28
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8.0
