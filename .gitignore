@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# Secrets (Pexels API key)
+.env
+
+# Local database
+*.db
+*.sqlite3
+
+# Flet build output
+build/
+storage/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
